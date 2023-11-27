@@ -1,0 +1,3 @@
+manifest-version: 1.0
+main-class: main.Main
+class-path: bin/
